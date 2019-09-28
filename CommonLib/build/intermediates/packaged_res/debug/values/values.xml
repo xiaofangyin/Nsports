@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="dimension" name="borderRadius"/>
+    <attr format="boolean" name="fl_defaultState"/>
+    <attr name="type">
+        <enum name="circle" value="0"/>
+        <enum name="round" value="1"/>
+    </attr>
+    <color name="colorAccent">#04d1aa</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="color_333">#333333</color>
+    <color name="color_333_55">#8c333333</color>
+    <color name="color_666">#666666</color>
+    <color name="color_666_55">#8c666666</color>
+    <color name="color_999">#999999</color>
+    <color name="color_999_55">#8c999999</color>
+    <color name="color_aa">#aaaaaa</color>
+    <color name="color_black">#000000</color>
+    <color name="color_black_80">#80000000</color>
+    <color name="color_blue">#04d1aa</color>
+    <color name="color_blue_80">#7F34c0be</color>
+    <color name="color_c9">#c9c9c9</color>
+    <color name="color_common_bg">#161922</color>
+    <color name="color_d8">#d8d8d8</color>
+    <color name="color_d9">#d9d9d9</color>
+    <color name="color_df">#dfdfdf</color>
+    <color name="color_ef">#efefef</color>
+    <color name="color_f2">#f2f2f2</color>
+    <color name="color_f5">#f5f5f5</color>
+    <color name="color_gray">#e2e5e2</color>
+    <color name="color_green">#04d1aa</color>
+    <color name="color_green_55">#8c04d1aa</color>
+    <color name="color_green_80">#cc04d1aa</color>
+    <color name="color_green_light">#81E8D4</color>
+    <color name="color_light_black">#2b2e2b</color>
+    <color name="color_line">#d8d8d8</color>
+    <color name="color_main_black">#161922</color>
+    <color name="color_red">#ED5565</color>
+    <color name="color_red_55">#8cED5565</color>
+    <color name="color_status_bar">#b5b5b5</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_white_70">#b3ffffff</color>
+    <color name="color_yellow">#F8AC59</color>
+    <color name="color_yellow_55">#8cF8AC59</color>
+    <color name="color_yellow_80">#ccF8AC59</color>
+    <color name="corner_color">#04d1aa</color>
+    <color name="laser_color">#04d1aa</color>
+    <color name="pdfViewPager_ab_color">#990000</color>
+    <color name="pdfViewPager_ab_color_darker">#660000</color>
+    <color name="pdfViewPager_ab_color_lighter">#CC0000</color>
+    <color name="pdfViewPager_background_color">@android:color/white</color>
+    <color name="result_point_color">#C0FFFF00</color>
+    <color name="result_view">#B0000000</color>
+    <color name="ucrop_color_default_crop_frame">#ffffff</color>
+    <color name="ucrop_color_default_crop_grid">#80ffffff</color>
+    <color name="ucrop_color_default_dimmed">#8c000000</color>
+    <color name="ucrop_color_default_logo">#4f212121</color>
+    <color name="viewfinder_frame">#90FFFFFF</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <dimen name="fab_shadow_size">12dp</dimen>
+    <dimen name="fab_size_mini">40dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+    <dimen name="ucrop_default_crop_frame_stoke_width">1dp</dimen>
+    <dimen name="ucrop_default_crop_grid_stoke_width">1dp</dimen>
+    <dimen name="ucrop_padding_crop_frame">0dp</dimen>
+    <item name="auto_focus" type="id"/>
+    <item name="barrage_view_holder" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="statusbarutil_fake_status_bar_view" type="id"/>
+    <item name="statusbarutil_translucent_view" type="id"/>
+    <string name="collection_last_refresh_time">上次更新时间：</string>
+    <string name="collection_load_failed">加载失败，点我再试试...</string>
+    <string name="collection_loading_more">正在加载...</string>
+    <string name="collection_no_more_data">没有更多数据咯</string>
+    <string name="collection_pull_to_refresh">下拉刷新</string>
+    <string name="collection_refresh_done">刷新完成</string>
+    <string name="collection_refresh_failed">刷新失败</string>
+    <string name="collection_refreshing">正在刷新...</string>
+    <string name="collection_release_refresh">释放刷新</string>
+    <string name="confirm">确定</string>
+    <string name="image">图片</string>
+    <string name="loading">正在加载...</string>
+    <string name="more">更多</string>
+    <string name="net_error">网络异常</string>
+    <string name="pdfvp_ready_to_download">Ready to download</string>
+    <string name="preview">预览</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="select">选择</string>
+    <style name="ActivityAnimation" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/lib_slide_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/lib_slide_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/lib_slide_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/lib_slide_right_out</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowEnableSplitTouch">false</item><!--禁止多点触控-->
+        <item name="android:splitMotionEvents">false</item><!--禁止多点触控-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowAnimationStyle">@style/ActivityAnimation</item>
+        <!-- 部分手机部分界面，headview下面有阴影，假设这个去掉阴影 -->
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="BaseDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/color_transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="BottomDialogStyle">
+        <item name="android:windowEnterAnimation">@anim/lib_anim_photo_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/lib_anim_photo_dialog_out</item>
+    </style>
+    <style name="CommentDialogStyle" parent="@style/AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowSoftInputMode">stateAlwaysVisible</item><!--显示软件盘-->
+        <item name="android:backgroundDimAmount">0.5</item>
+    </style>
+    <style name="LoadingDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <declare-styleable name="AVLoadingIndicatorView">
+        <attr name="indicator">
+            <flag name="BallPulse" value="0"/>
+            <flag name="BallGridPulse" value="1"/>
+            <flag name="BallClipRotate" value="2"/>
+            <flag name="BallClipRotatePulse" value="3"/>
+            <flag name="SquareSpin" value="4"/>
+            <flag name="BallClipRotateMultiple" value="5"/>
+            <flag name="BallPulseRise" value="6"/>
+            <flag name="BallRotate" value="7"/>
+            <flag name="CubeTransition" value="8"/>
+            <flag name="BallZigZag" value="9"/>
+            <flag name="BallZigZagDeflect" value="10"/>
+            <flag name="BallTrianglePath" value="11"/>
+            <flag name="BallScale" value="12"/>
+            <flag name="LineScale" value="13"/>
+            <flag name="LineScaleParty" value="14"/>
+            <flag name="BallScaleMultiple" value="15"/>
+            <flag name="BallPulseSync" value="16"/>
+            <flag name="BallBeat" value="17"/>
+            <flag name="LineScalePulseOut" value="18"/>
+            <flag name="LineScalePulseOutRapid" value="19"/>
+            <flag name="BallScaleRipple" value="20"/>
+            <flag name="BallScaleRippleMultiple" value="21"/>
+            <flag name="BallSpinFadeLoader" value="22"/>
+            <flag name="LineSpinFadeLoader" value="23"/>
+            <flag name="TriangleSkewSpin" value="24"/>
+            <flag name="Pacman" value="25"/>
+            <flag name="BallGridBeat" value="26"/>
+            <flag name="SemiCircleSpin" value="27"/>
+        </attr>
+        <attr format="color" name="indicator_color"/>
+    </declare-styleable>
+    <declare-styleable name="CalendarView">
+        <!--是否显示农历-->
+        <attr format="boolean" name="show_lunar"/>
+        <!--是否显示上月和下月-->
+        <attr format="boolean" name="show_last_next"/>
+        <!--是否显示节假日-->
+        <attr format="boolean" name="show_holiday"/>
+        <!--是否显示节气-->
+        <attr format="boolean" name="show_term"/>
+        <!--阳历的日期颜色-->
+        <attr format="color" name="solar_color"/>
+        <!--阳历的日期尺寸-->
+        <attr format="integer" name="solar_size"/>
+        <!--农历的日期颜色-->
+        <attr format="color" name="lunar_color"/>
+        <!--农历的日期尺寸-->
+        <attr format="integer" name="lunar_size"/>
+        <!--节日文字颜色-->
+        <attr format="color" name="holiday_color"/>
+        <!--选中的日期文字颜色-->
+        <attr format="color" name="choose_color"/>
+        <!--选中的日期背景-->
+        <attr format="reference" name="day_bg"/>
+        <!--单选时切换月份，是否选中上次的日期-->
+        <attr format="boolean" name="switch_choose"/>
+        <!--设置单选、多选-->
+        <attr format="enum" name="choose_type">
+            <enum name="single" value="0"/>
+            <enum name="multi" value="1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FLCSeekBar">
+        <attr format="integer" name="cells"/>
+        <attr format="dimension" name="lineHeight"/>
+        <attr format="color" name="lineColorSelected"/>
+        <attr format="color" name="lineColorUnSelected"/>
+        <attr format="color" name="circleColorEdge"/>
+        <attr format="reference" name="bitmapThumb"/>
+    </declare-styleable>
+    <declare-styleable name="FlToggleButton">
+        <attr name="fl_defaultState"/>
+    </declare-styleable>
+    <declare-styleable name="FlickeringTextView">
+        <attr format="color" name="flickeringColor"/>
+    </declare-styleable>
+    <declare-styleable name="FlowLayout">
+        <attr format="dimension" name="width_space"/>
+        <attr format="dimension" name="height_space"/>
+    </declare-styleable>
+    <declare-styleable name="LegacyPDFView">
+
+    </declare-styleable>
+    <declare-styleable name="LoadingLayout">
+    <attr format="reference" name="com_loadingView"/>
+    <attr format="reference" name="com_errorView"/>
+    <attr format="reference" name="com_emptyView"/>
+  </declare-styleable>
+    <declare-styleable name="MZBannerView">
+        <attr format="boolean" name="open_mz_mode"/>
+        <attr format="boolean" name="canLoop"/>
+        <attr format="dimension" name="indicatorPaddingLeft"/>
+        <attr format="dimension" name="indicatorPaddingRight"/>
+        <attr format="dimension" name="indicatorPaddingTop"/>
+        <attr format="dimension" name="indicatorPaddingBottom"/>
+        <attr name="indicatorAlign">
+            <enum name="left" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+        <attr format="boolean" name="middle_page_cover"/>
+    </declare-styleable>
+    <declare-styleable name="MovieRecorderView">
+        <!-- 开始是否打开摄像头 -->
+        <attr format="boolean" name="is_open_camera"/>
+        <!-- 一次拍摄最长时间 -->
+        <attr format="integer" name="record_max_time"/>
+        <!-- 视频分辨率宽度 -->
+        <attr format="integer" name="record_width"/>
+        <!-- 视频分辨率高度 -->
+        <attr format="integer" name="record_height"/>
+    </declare-styleable>
+    <declare-styleable name="PDFViewPager">
+        <attr format="string" name="assetFileName"/> <!-- Load PDF from Asset -->
+        <attr format="string" name="pdfUrl"/> <!-- Load PDF from remote URL -->
+        <attr format="float" name="scale"/> <!-- Set initial scale for PDF -->
+    </declare-styleable>
+    <declare-styleable name="PercentLayout">
+        <attr format="float" name="layout_widthPercent"/>
+        <attr format="float" name="layout_heightPercent"/>
+    </declare-styleable>
+    <declare-styleable name="RingProgressBar">
+        <attr format="color" name="startColor"/>
+        <attr format="color" name="centerColor"/>
+        <attr format="color" name="endColor"/>
+        <attr format="float" name="max"/>
+        <attr format="float" name="mProgress"/>
+    </declare-styleable>
+    <declare-styleable name="RoundImageView">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+    </declare-styleable>
+    <declare-styleable name="RulerView">
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="color" name="lineColor"/>
+        <attr format="dimension" name="lineSpaceWidth"/>
+        <attr format="dimension" name="lineWidth"/>
+        <attr format="dimension" name="lineMaxHeight"/>
+        <attr format="dimension" name="lineMidHeight"/>
+        <attr format="dimension" name="lineMinHeight"/>
+        <attr format="dimension" name="textMarginTop"/>
+        <attr format="boolean" name="alphaEnable"/>
+        <attr format="float" name="minValue"/>
+        <attr format="float" name="maxValue"/>
+        <attr format="float" name="selectorValue"/>
+        <attr format="float" name="perValue"/>
+    </declare-styleable>
+    <declare-styleable name="ScrollingImageView">
+        <attr format="dimension" name="speed"/>
+        <attr format="reference" name="src"/>
+    </declare-styleable>
+    <declare-styleable name="SmoothCheckBox">
+        <attr format="dimension" name="stroke_width"/>
+        <attr format="dimension" name="tick_width"/>
+        <attr format="color" name="color_tick"/>
+        <attr format="color" name="color_checked"/>
+        <attr format="color" name="color_unchecked"/>
+        <attr format="color" name="color_unchecked_stroke"/>
+    </declare-styleable>
+    <declare-styleable name="UGCFloatingActionButton">
+        <attr format="color" name="fab_colorPressed"/>
+        <attr format="color" name="fab_colorNormal"/>
+        <attr format="color" name="fab_colorRipple"/>
+        <attr format="color" name="fab_colorDisabled"/>
+        <attr format="boolean" name="fab_shadow"/>
+        <attr format="enum" name="fab_type">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="ViewfinderView">
+        <attr format="color" name="corner_color"/>
+        <attr format="color" name="laser_color"/>
+        <attr format="color" name="frame_color"/>
+        <attr format="color" name="mask_color"/>
+        <attr format="color" name="result_point_color"/>
+        <attr format="color" name="result_color"/>
+        <attr format="color" name="label_text_color"/>
+        <attr format="string" name="label_text"/>
+        <attr format="float" name="label_text_size"/>
+    </declare-styleable>
+    <declare-styleable name="WaterWaveView">
+        <attr format="integer" name="cfl_progress"/>
+        <attr format="boolean" name="cfl_border"/>
+        <attr format="dimension" name="cfl_border_width"/>
+        <attr format="color" name="cfl_wave_color"/>
+        <attr format="float" name="cfl_wave_amplitude"/>
+    </declare-styleable>
+    <declare-styleable name="WeekView">
+        <!--周的表示形式（x.x.x.x.x.x.x）-->
+        <attr format="string" name="week_str"/>
+        <!--周的文字颜色-->
+        <attr format="color" name="week_color"/>
+        <!--周的文字大小-->
+        <attr format="integer" name="week_size"/>
+    </declare-styleable>
+    <declare-styleable name="ucrop_UCropView">
+        <attr format="float" name="ucrop_aspect_ratio_x"/>
+        <attr format="float" name="ucrop_aspect_ratio_y"/>
+        <attr format="boolean" name="ucrop_show_oval_crop_frame"/>
+        <attr format="boolean" name="ucrop_oval_dimmed_layer"/>
+        <attr format="color" name="ucrop_dimmed_color"/>
+        <attr format="dimension" name="ucrop_grid_stroke_size"/>
+        <attr format="color" name="ucrop_grid_color"/>
+        <attr format="integer" name="ucrop_grid_row_count"/>
+        <attr format="integer" name="ucrop_grid_column_count"/>
+        <attr format="boolean" name="ucrop_show_grid"/>
+        <attr format="dimension" name="ucrop_frame_stroke_size"/>
+        <attr format="color" name="ucrop_frame_color"/>
+        <attr format="boolean" name="ucrop_show_frame"/>\
+        <attr format="integer" name="ucrop_react_margin_top"/>
+        <attr format="integer" name="ucrop_react_height"/>
+    </declare-styleable>
+</resources>

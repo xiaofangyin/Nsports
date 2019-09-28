@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res"/><source path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/build/generated/res/rs/release"/><source path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/build/generated/res/resValues/release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res"><file name="ic_launcher" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-mdpi/ic_launcher_round.png" qualifiers="mdpi-v4" type="mipmap"/><file name="lib_slide_left_in" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/anim/lib_slide_left_in.xml" qualifiers="" type="anim"/><file name="lib_anim_photo_dialog_in" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/anim/lib_anim_photo_dialog_in.xml" qualifiers="" type="anim"/><file name="lib_anim_fade_in_center" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/anim/lib_anim_fade_in_center.xml" qualifiers="" type="anim"/><file name="lib_anim_photo_dialog_out" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/anim/lib_anim_photo_dialog_out.xml" qualifiers="" type="anim"/><file name="lib_anim_auto_load_reverse" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/anim/lib_anim_auto_load_reverse.xml" qualifiers="" type="anim"/><file name="lib_slide_right_out" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/anim/lib_slide_right_out.xml" qualifiers="" type="anim"/><file name="lib_slide_right_in" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/anim/lib_slide_right_in.xml" qualifiers="" type="anim"/><file name="lib_anim_auto_load_rotating" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/anim/lib_anim_auto_load_rotating.xml" qualifiers="" type="anim"/><file name="lib_slide_left_out" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/anim/lib_slide_left_out.xml" qualifiers="" type="anim"/><file name="ic_launcher" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-hdpi/ic_launcher_round.png" qualifiers="hdpi-v4" type="mipmap"/><file name="notice" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-hdpi/notice.png" qualifiers="hdpi-v4" type="mipmap"/><file name="zx_code_line" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-hdpi/zx_code_line.png" qualifiers="hdpi-v4" type="mipmap"/><file name="lib_selector_comfirm" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_comfirm.xml" qualifiers="" type="drawable"/><file name="lib_selector_back_black" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_back_black.xml" qualifiers="" type="drawable"/><file name="lib_selector_text_color_yellow" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_text_color_yellow.xml" qualifiers="" type="drawable"/><file name="lib_selector_banner_indicator" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_banner_indicator.xml" qualifiers="" type="drawable"/><file name="shape_round_0dp_blue" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/shape_round_0dp_blue.xml" qualifiers="" type="drawable"/><file name="indicator_selected" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/indicator_selected.xml" qualifiers="" type="drawable"/><file name="shape_round_white_corners_4" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/shape_round_white_corners_4.xml" qualifiers="" type="drawable"/><file name="lib_shape_tabview_normal" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_tabview_normal.xml" qualifiers="" type="drawable"/><file name="lib_selector_text_color_green" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_text_color_green.xml" qualifiers="" type="drawable"/><file name="indicator_normal" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/indicator_normal.xml" qualifiers="" type="drawable"/><file name="lib_shape_banner_indicator_enable" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_banner_indicator_enable.xml" qualifiers="" type="drawable"/><file name="lib_selector_text_color_blue" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_text_color_blue.xml" qualifiers="" type="drawable"/><file name="lib_line_shadow_bg_90" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_line_shadow_bg_90.xml" qualifiers="" type="drawable"/><file name="lib_gradient_color_list" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_gradient_color_list.xml" qualifiers="" type="drawable"/><file name="lib_selector_text_color_white" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_text_color_white.xml" qualifiers="" type="drawable"/><file name="shape_oval_green" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/shape_oval_green.xml" qualifiers="" type="drawable"/><file name="lib_shape_toast_corners" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_toast_corners.xml" qualifiers="" type="drawable"/><file name="lib_shape_round_white_2dp" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_round_white_2dp.xml" qualifiers="" type="drawable"/><file name="lib_shape_edit_text_cursor_color" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_edit_text_cursor_color.xml" qualifiers="" type="drawable"/><file name="lib_shape_folder_bg" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_folder_bg.xml" qualifiers="" type="drawable"/><file name="lib_selector_text_color_666" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_text_color_666.xml" qualifiers="" type="drawable"/><file name="lib_selector_text_color_333" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_text_color_333.xml" qualifiers="" type="drawable"/><file name="lib_selector_back_white" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_back_white.xml" qualifiers="" type="drawable"/><file name="btn_green_shape_enable" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/btn_green_shape_enable.xml" qualifiers="" type="drawable"/><file name="lib_shape_round_button_solid_transparent_stroke_white" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_round_button_solid_transparent_stroke_white.xml" qualifiers="" type="drawable"/><file name="lib_shape_banner_indicator_disable" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_banner_indicator_disable.xml" qualifiers="" type="drawable"/><file name="lib_selector_tabview_bg" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_tabview_bg.xml" qualifiers="" type="drawable"/><file name="lib_loading_layout_anim_list" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_loading_layout_anim_list.xml" qualifiers="" type="drawable"/><file name="lib_shape_white_pressed_bg" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_white_pressed_bg.xml" qualifiers="" type="drawable"/><file name="lib_shape_comment_edit_text_bg" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_comment_edit_text_bg.xml" qualifiers="" type="drawable"/><file name="shape_round_black_50" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/shape_round_black_50.xml" qualifiers="" type="drawable"/><file name="lib_cursor_shape" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_cursor_shape.xml" qualifiers="" type="drawable"/><file name="lib_gradient_color_1" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_gradient_color_1.xml" qualifiers="" type="drawable"/><file name="lib_selector_white_bg" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_white_bg.xml" qualifiers="" type="drawable"/><file name="lib_selector_text_color_red" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_text_color_red.xml" qualifiers="" type="drawable"/><file name="lib_selector_text_color_999" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_selector_text_color_999.xml" qualifiers="" type="drawable"/><file name="lib_gradient_color_3" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_gradient_color_3.xml" qualifiers="" type="drawable"/><file name="lib_shape_tabview_pressed" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_tabview_pressed.xml" qualifiers="" type="drawable"/><file name="lib_gradient_color_2" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_gradient_color_2.xml" qualifiers="" type="drawable"/><file name="btn_green_shape_disable" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/btn_green_shape_disable.xml" qualifiers="" type="drawable"/><file name="lib_shape_white_normal_bg" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_shape_white_normal_bg.xml" qualifiers="" type="drawable"/><file name="lib_gradient_color_4" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/lib_gradient_color_4.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/drawable/ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxxhdpi/ic_launcher.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="activity_news_detail_pics_preview" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/activity_news_detail_pics_preview.xml" qualifiers="" type="layout"/><file name="activity_preview" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/activity_preview.xml" qualifiers="" type="layout"/><file name="activity_single_select" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/activity_single_select.xml" qualifiers="" type="layout"/><file name="activity_folders" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/activity_folders.xml" qualifiers="" type="layout"/><file name="lib_layout_default_loading_more" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_layout_default_loading_more.xml" qualifiers="" type="layout"/><file name="lib_layout_toast" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_layout_toast.xml" qualifiers="" type="layout"/><file name="pdf_view_legacy_pdf" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/pdf_view_legacy_pdf.xml" qualifiers="" type="layout"/><file name="item_month_layout" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/item_month_layout.xml" qualifiers="" type="layout"/><file name="lib_loading_view_empty" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_loading_view_empty.xml" qualifiers="" type="layout"/><file name="lib_alert_dialog_center" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_alert_dialog_center.xml" qualifiers="" type="layout"/><file name="pager_navigator_layout_no_scroll" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/pager_navigator_layout_no_scroll.xml" qualifiers="" type="layout"/><file name="lib_layout_header" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_layout_header.xml" qualifiers="" type="layout"/><file name="item_news_detail_pic_preview" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/item_news_detail_pic_preview.xml" qualifiers="" type="layout"/><file name="mz_banner_effect_layout" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/mz_banner_effect_layout.xml" qualifiers="" type="layout"/><file name="lib_layout_comment_dialog" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_layout_comment_dialog.xml" qualifiers="" type="layout"/><file name="pdf_view_zoomable_pdf_page" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/pdf_view_zoomable_pdf_page.xml" qualifiers="" type="layout"/><file name="lib_loading_view_error" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_loading_view_error.xml" qualifiers="" type="layout"/><file name="lib_alert_dialog_bottom" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_alert_dialog_bottom.xml" qualifiers="" type="layout"/><file name="activity_scanner" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/activity_scanner.xml" qualifiers="" type="layout"/><file name="lib_layout_toast_center" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_layout_toast_center.xml" qualifiers="" type="layout"/><file name="mz_banner_normal_layout" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/mz_banner_normal_layout.xml" qualifiers="" type="layout"/><file name="lib_photo_crop_view" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_photo_crop_view.xml" qualifiers="" type="layout"/><file name="pager_navigator_layout" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/pager_navigator_layout.xml" qualifiers="" type="layout"/><file name="adapter_single_item" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/adapter_single_item.xml" qualifiers="" type="layout"/><file name="lib_layout_default_arrow_refresh" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_layout_default_arrow_refresh.xml" qualifiers="" type="layout"/><file name="adapter_images_item" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/adapter_images_item.xml" qualifiers="" type="layout"/><file name="lib_loading_view_loading" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/lib_loading_view_loading.xml" qualifiers="" type="layout"/><file name="activity_crash_show_exception" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/activity_crash_show_exception.xml" qualifiers="" type="layout"/><file name="activity_images_select" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/activity_images_select.xml" qualifiers="" type="layout"/><file name="pdf_view_pdf_page" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/pdf_view_pdf_page.xml" qualifiers="" type="layout"/><file name="adapter_folder" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/adapter_folder.xml" qualifiers="" type="layout"/><file name="loading_progress_view" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/loading_progress_view.xml" qualifiers="" type="layout"/><file name="layout_bar_cord_query_dialog" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/layout/layout_bar_cord_query_dialog.xml" qualifiers="" type="layout"/><file name="icon_calendar_next" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_calendar_next.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_4" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_4.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_1_normal" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_1_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_pdf_flaticon_dummy" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_pdf_flaticon_dummy.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_bar_code_input" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_bar_code_input.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_5" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_5.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_7" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_7.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_6" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_6.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_wrong" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_wrong.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_2" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_2.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_3" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_3.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_1_selected" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_1_selected.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_checkbox_unchecked" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_checkbox_unchecked.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_4_normal" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_4_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_1" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_1.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_comment_enable" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_comment_enable.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_pic_download" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_pic_download.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_3_normal" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_3_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_comment_disable" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_comment_disable.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_bar_code_scan_line" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_bar_code_scan_line.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_default_placeholder_big" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_default_placeholder_big.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ugc_nav_back_normal" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/ugc_nav_back_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ugc_default_photo" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/ugc_default_photo.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_default_placeholder_small" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_default_placeholder_small.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_calendar_last" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_calendar_last.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_calendar_white" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_calendar_white.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_10" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_10.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_11" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_11.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_checkbox_checked" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_checkbox_checked.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_13" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_13.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_5_normal" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_5_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_12" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_12.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_16" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_16.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_17" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_17.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_bar_code_light_close" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_bar_code_light_close.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_15" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_15.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_14" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_14.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_4_selected" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_4_selected.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_3_selected" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_3_selected.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="sa_skull_4" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/sa_skull_4.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_2_selected" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_2_selected.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_5_selected" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_5_selected.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_home_tab_2_normal" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_home_tab_2_normal.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="icon_bar_code_light_open" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/icon_bar_code_light_open.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="sa_skull_1" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/sa_skull_1.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="sa_skull_3" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/sa_skull_3.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_8" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_8.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="loading_layout_view_9" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/loading_layout_view_9.png" qualifiers="xxhdpi-v4" type="mipmap"/><file name="sa_skull_2" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xxhdpi/sa_skull_2.png" qualifiers="xxhdpi-v4" type="mipmap"/><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_check_box.xml" qualifiers=""><declare-styleable name="SmoothCheckBox">
+        <attr format="dimension" name="stroke_width"/>
+        <attr format="dimension" name="tick_width"/>
+        <attr format="color" name="color_tick"/>
+        <attr format="color" name="color_checked"/>
+        <attr format="color" name="color_unchecked"/>
+        <attr format="color" name="color_unchecked_stroke"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/colors.xml" qualifiers=""><color name="colorPrimary">#3F51B5</color><color name="colorPrimaryDark">#303F9F</color><color name="colorAccent">#04d1aa</color><color name="color_main_black">#161922</color><color name="color_transparent">#00000000</color><color name="color_common_bg">#161922</color><color name="color_status_bar">#b5b5b5</color><color name="color_aa">#aaaaaa</color><color name="color_c9">#c9c9c9</color><color name="color_d8">#d8d8d8</color><color name="color_d9">#d9d9d9</color><color name="color_df">#dfdfdf</color><color name="color_gray">#e2e5e2</color><color name="color_line">#d8d8d8</color><color name="color_ef">#efefef</color><color name="color_f2">#f2f2f2</color><color name="color_f5">#f5f5f5</color><color name="color_light_black">#2b2e2b</color><color name="color_black">#000000</color><color name="color_black_80">#80000000</color><color name="color_blue">#04d1aa</color><color name="color_blue_80">#7F34c0be</color><color name="color_red">#ED5565</color><color name="color_red_55">#8cED5565</color><color name="color_white">#ffffff</color><color name="color_white_70">#b3ffffff</color><color name="color_333">#333333</color><color name="color_333_55">#8c333333</color><color name="color_666">#666666</color><color name="color_666_55">#8c666666</color><color name="color_999">#999999</color><color name="color_999_55">#8c999999</color><color name="color_green_light">#81E8D4</color><color name="color_green">#04d1aa</color><color name="color_green_55">#8c04d1aa</color><color name="color_green_80">#cc04d1aa</color><color name="color_yellow">#F8AC59</color><color name="color_yellow_55">#8cF8AC59</color><color name="color_yellow_80">#ccF8AC59</color><color name="pdfViewPager_background_color">@android:color/white</color><color name="pdfViewPager_ab_color">#990000</color><color name="pdfViewPager_ab_color_lighter">#CC0000</color><color name="pdfViewPager_ab_color_darker">#660000</color><color name="viewfinder_mask">#60000000</color><color name="result_view">#B0000000</color><color name="viewfinder_frame">#90FFFFFF</color><color name="result_point_color">#C0FFFF00</color><color name="laser_color">#04d1aa</color><color name="corner_color">#04d1aa</color></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_seek_bar.xml" qualifiers=""><declare-styleable name="FLCSeekBar">
+        <attr format="integer" name="cells"/>
+        <attr format="dimension" name="lineHeight"/>
+        <attr format="color" name="lineColorSelected"/>
+        <attr format="color" name="lineColorUnSelected"/>
+        <attr format="color" name="circleColorEdge"/>
+        <attr format="reference" name="bitmapThumb"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_loading_layout.xml" qualifiers=""><declare-styleable name="LoadingLayout">
+    <attr format="reference" name="com_loadingView"/>
+    <attr format="reference" name="com_errorView"/>
+    <attr format="reference" name="com_emptyView"/>
+  </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_flowlayout.xml" qualifiers=""><declare-styleable name="FlowLayout">
+        <attr format="dimension" name="width_space"/>
+        <attr format="dimension" name="height_space"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/dimens.xml" qualifiers=""><dimen name="fab_size_normal">56dp</dimen><dimen name="fab_size_mini">40dp</dimen><dimen name="fab_shadow_size">12dp</dimen></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_ruler_view.xml" qualifiers=""><declare-styleable name="RulerView">
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="color" name="lineColor"/>
+        <attr format="dimension" name="lineSpaceWidth"/>
+        <attr format="dimension" name="lineWidth"/>
+        <attr format="dimension" name="lineMaxHeight"/>
+        <attr format="dimension" name="lineMidHeight"/>
+        <attr format="dimension" name="lineMinHeight"/>
+        <attr format="dimension" name="textMarginTop"/>
+        <attr format="boolean" name="alphaEnable"/>
+        <attr format="float" name="minValue"/>
+        <attr format="float" name="maxValue"/>
+        <attr format="float" name="selectorValue"/>
+        <attr format="float" name="perValue"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_floating_action_button.xml" qualifiers=""><declare-styleable name="UGCFloatingActionButton">
+        <attr format="color" name="fab_colorPressed"/>
+        <attr format="color" name="fab_colorNormal"/>
+        <attr format="color" name="fab_colorRipple"/>
+        <attr format="color" name="fab_colorDisabled"/>
+        <attr format="boolean" name="fab_shadow"/>
+        <attr format="enum" name="fab_type">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_toggle_button.xml" qualifiers=""><attr format="boolean" name="fl_defaultState"/><declare-styleable name="FlToggleButton">
+        <attr name="fl_defaultState"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_meizu_banner.xml" qualifiers=""><declare-styleable name="MZBannerView">
+        <attr format="boolean" name="open_mz_mode"/>
+        <attr format="boolean" name="canLoop"/>
+        <attr format="dimension" name="indicatorPaddingLeft"/>
+        <attr format="dimension" name="indicatorPaddingRight"/>
+        <attr format="dimension" name="indicatorPaddingTop"/>
+        <attr format="dimension" name="indicatorPaddingBottom"/>
+        <attr name="indicatorAlign">
+            <enum name="left" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+        <attr format="boolean" name="middle_page_cover"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_zxing.xml" qualifiers=""><declare-styleable name="ViewfinderView">
+        <attr format="color" name="corner_color"/>
+        <attr format="color" name="laser_color"/>
+        <attr format="color" name="frame_color"/>
+        <attr format="color" name="mask_color"/>
+        <attr format="color" name="result_point_color"/>
+        <attr format="color" name="result_color"/>
+        <attr format="color" name="label_text_color"/>
+        <attr format="string" name="label_text"/>
+        <attr format="float" name="label_text_size"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_photoclip.xml" qualifiers=""><color name="ucrop_color_default_crop_frame">#ffffff</color><color name="ucrop_color_default_crop_grid">#80ffffff</color><color name="ucrop_color_default_dimmed">#8c000000</color><color name="ucrop_color_default_logo">#4f212121</color><declare-styleable name="ucrop_UCropView">
+        <attr format="float" name="ucrop_aspect_ratio_x"/>
+        <attr format="float" name="ucrop_aspect_ratio_y"/>
+        <attr format="boolean" name="ucrop_show_oval_crop_frame"/>
+        <attr format="boolean" name="ucrop_oval_dimmed_layer"/>
+        <attr format="color" name="ucrop_dimmed_color"/>
+        <attr format="dimension" name="ucrop_grid_stroke_size"/>
+        <attr format="color" name="ucrop_grid_color"/>
+        <attr format="integer" name="ucrop_grid_row_count"/>
+        <attr format="integer" name="ucrop_grid_column_count"/>
+        <attr format="boolean" name="ucrop_show_grid"/>
+        <attr format="dimension" name="ucrop_frame_stroke_size"/>
+        <attr format="color" name="ucrop_frame_color"/>
+        <attr format="boolean" name="ucrop_show_frame"/>\
+        <attr format="integer" name="ucrop_react_margin_top"/>
+        <attr format="integer" name="ucrop_react_height"/>
+    </declare-styleable><dimen name="ucrop_default_crop_frame_stoke_width">1dp</dimen><dimen name="ucrop_default_crop_grid_stoke_width">1dp</dimen><dimen name="ucrop_padding_crop_frame">0dp</dimen></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:splitMotionEvents">false</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowAnimationStyle">@style/ActivityAnimation</item>
+        
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="ActivityAnimation" parent="@android:style/Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/lib_slide_right_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/lib_slide_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/lib_slide_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/lib_slide_right_out</item>
+    </style><style name="BottomDialogStyle">
+        <item name="android:windowEnterAnimation">@anim/lib_anim_photo_dialog_in</item>
+        <item name="android:windowExitAnimation">@anim/lib_anim_photo_dialog_out</item>
+    </style><style name="BaseDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/color_transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="CommentDialogStyle" parent="@style/AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowSoftInputMode">stateAlwaysVisible</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+    </style><style name="LoadingDialogStyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_pdf.xml" qualifiers=""><declare-styleable name="PDFViewPager">
+        <attr format="string" name="assetFileName"/> 
+        <attr format="string" name="pdfUrl"/> 
+        <attr format="float" name="scale"/> 
+    </declare-styleable><declare-styleable name="LegacyPDFView">
+
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_flickering_text_view.xml" qualifiers=""><declare-styleable name="MovieRecorderView">
+        
+        <attr format="boolean" name="is_open_camera"/>
+        
+        <attr format="integer" name="record_max_time"/>
+        
+        <attr format="integer" name="record_width"/>
+        
+        <attr format="integer" name="record_height"/>
+    </declare-styleable><declare-styleable name="FlickeringTextView">
+        <attr format="color" name="flickeringColor"/>
+    </declare-styleable><declare-styleable name="RingProgressBar">
+        <attr format="color" name="startColor"/>
+        <attr format="color" name="centerColor"/>
+        <attr format="color" name="endColor"/>
+        <attr format="float" name="max"/>
+        <attr format="float" name="mProgress"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/strings.xml" qualifiers=""><string name="net_error">网络异常</string><string name="image">图片</string><string name="confirm">确定</string><string name="preview">预览</string><string name="select">选择</string><string name="pull_to_refresh">下拉刷新</string><string name="release_to_refresh">释放立即刷新</string><string name="refreshing">正在刷新...</string><string name="refresh_succeed">刷新成功</string><string name="refresh_fail">刷新失败</string><string name="more">更多</string><string name="loading">正在加载...</string><string name="collection_pull_to_refresh">下拉刷新</string><string name="collection_release_refresh">释放刷新</string><string name="collection_refresh_done">刷新完成</string><string name="collection_refresh_failed">刷新失败</string><string name="collection_refreshing">正在刷新...</string><string name="collection_last_refresh_time">上次更新时间：</string><string name="collection_loading_more">正在加载...</string><string name="collection_no_more_data">没有更多数据咯</string><string name="collection_load_failed">加载失败，点我再试试...</string><string name="pdfvp_ready_to_download">Ready to download</string></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_percent_layout.xml" qualifiers=""><declare-styleable name="PercentLayout">
+        <attr format="float" name="layout_widthPercent"/>
+        <attr format="float" name="layout_heightPercent"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_calendar.xml" qualifiers=""><declare-styleable name="CalendarView">
+        
+        <attr format="boolean" name="show_lunar"/>
+        
+        <attr format="boolean" name="show_last_next"/>
+        
+        <attr format="boolean" name="show_holiday"/>
+        
+        <attr format="boolean" name="show_term"/>
+        
+        <attr format="color" name="solar_color"/>
+        
+        <attr format="integer" name="solar_size"/>
+        
+        <attr format="color" name="lunar_color"/>
+        
+        <attr format="integer" name="lunar_size"/>
+        
+        <attr format="color" name="holiday_color"/>
+        
+        <attr format="color" name="choose_color"/>
+        
+        <attr format="reference" name="day_bg"/>
+        
+        <attr format="boolean" name="switch_choose"/>
+        
+        <attr format="enum" name="choose_type">
+            <enum name="single" value="0"/>
+            <enum name="multi" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="WeekView">
+        
+        <attr format="string" name="week_str"/>
+        
+        <attr format="color" name="week_color"/>
+        
+        <attr format="integer" name="week_size"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_round_image_view.xml" qualifiers=""><attr format="dimension" name="borderRadius"/><attr name="type">
+        <enum name="circle" value="0"/>
+        <enum name="round" value="1"/>
+    </attr><declare-styleable name="RoundImageView">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/ids.xml" qualifiers=""><item name="auto_focus" type="id"/><item name="decode" type="id"/><item name="decode_failed" type="id"/><item name="decode_succeeded" type="id"/><item name="encode_failed" type="id"/><item name="encode_succeeded" type="id"/><item name="launch_product_query" type="id"/><item name="quit" type="id"/><item name="restart_preview" type="id"/><item name="return_scan_result" type="id"/><item name="search_book_contents_failed" type="id"/><item name="search_book_contents_succeeded" type="id"/><item name="statusbarutil_fake_status_bar_view" type="id"/><item name="statusbarutil_translucent_view" type="id"/><item name="barrage_view_holder" type="id"/></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_avi.xml" qualifiers=""><declare-styleable name="AVLoadingIndicatorView">
+        <attr name="indicator">
+            <flag name="BallPulse" value="0"/>
+            <flag name="BallGridPulse" value="1"/>
+            <flag name="BallClipRotate" value="2"/>
+            <flag name="BallClipRotatePulse" value="3"/>
+            <flag name="SquareSpin" value="4"/>
+            <flag name="BallClipRotateMultiple" value="5"/>
+            <flag name="BallPulseRise" value="6"/>
+            <flag name="BallRotate" value="7"/>
+            <flag name="CubeTransition" value="8"/>
+            <flag name="BallZigZag" value="9"/>
+            <flag name="BallZigZagDeflect" value="10"/>
+            <flag name="BallTrianglePath" value="11"/>
+            <flag name="BallScale" value="12"/>
+            <flag name="LineScale" value="13"/>
+            <flag name="LineScaleParty" value="14"/>
+            <flag name="BallScaleMultiple" value="15"/>
+            <flag name="BallPulseSync" value="16"/>
+            <flag name="BallBeat" value="17"/>
+            <flag name="LineScalePulseOut" value="18"/>
+            <flag name="LineScalePulseOutRapid" value="19"/>
+            <flag name="BallScaleRipple" value="20"/>
+            <flag name="BallScaleRippleMultiple" value="21"/>
+            <flag name="BallSpinFadeLoader" value="22"/>
+            <flag name="LineSpinFadeLoader" value="23"/>
+            <flag name="TriangleSkewSpin" value="24"/>
+            <flag name="Pacman" value="25"/>
+            <flag name="BallGridBeat" value="26"/>
+            <flag name="SemiCircleSpin" value="27"/>
+        </attr>
+        <attr format="color" name="indicator_color"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_scrolling_view.xml" qualifiers=""><declare-styleable name="ScrollingImageView">
+        <attr format="dimension" name="speed"/>
+        <attr format="reference" name="src"/>
+    </declare-styleable></file><file path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/values/attrs_water_wave_view_.xml" qualifiers=""><declare-styleable name="WaterWaveView">
+        <attr format="integer" name="cfl_progress"/>
+        <attr format="boolean" name="cfl_border"/>
+        <attr format="dimension" name="cfl_border_width"/>
+        <attr format="color" name="cfl_wave_color"/>
+        <attr format="float" name="cfl_wave_amplitude"/>
+    </declare-styleable></file><file name="file_paths" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/xml/file_paths.xml" qualifiers="" type="xml"/><file name="flc_icon_back_pressed" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/flc_icon_back_pressed.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="refresh_failed" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/refresh_failed.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_refresh_arrow" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/icon_refresh_arrow.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="flc_icon_back_default" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/flc_icon_back_default.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="mei_left_arrow" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/mei_left_arrow.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_time_picker_clock_dial" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/icon_time_picker_clock_dial.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_time_picker_start" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/icon_time_picker_start.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/ic_launcher_round.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="icon_time_picker_end" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/icon_time_picker_end.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="refresh_succeed" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/mipmap-xhdpi/refresh_succeed.png" qualifiers="xhdpi-v4" type="mipmap"/><file name="beep" path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/main/res/raw/beep.ogg" qualifiers="" type="raw"/></source><source path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/build/generated/res/rs/release"/><source path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/build/generated/res/resValues/release"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release" generated-set="release$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/xiaofangyin/AndroidStudioProjects/Nsports/CommonLib/src/release/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ViewfinderView">
+        <attr format="color" name="corner_color"/>
+        <attr format="color" name="laser_color"/>
+        <attr format="color" name="frame_color"/>
+        <attr format="color" name="mask_color"/>
+        <attr format="color" name="result_point_color"/>
+        <attr format="color" name="result_color"/>
+        <attr format="color" name="label_text_color"/>
+        <attr format="string" name="label_text"/>
+        <attr format="float" name="label_text_size"/>
+    </declare-styleable><declare-styleable name="FlowLayout">
+        <attr format="dimension" name="width_space"/>
+        <attr format="dimension" name="height_space"/>
+    </declare-styleable><declare-styleable name="CalendarView">
+        
+        <attr format="boolean" name="show_lunar"/>
+        
+        <attr format="boolean" name="show_last_next"/>
+        
+        <attr format="boolean" name="show_holiday"/>
+        
+        <attr format="boolean" name="show_term"/>
+        
+        <attr format="color" name="solar_color"/>
+        
+        <attr format="integer" name="solar_size"/>
+        
+        <attr format="color" name="lunar_color"/>
+        
+        <attr format="integer" name="lunar_size"/>
+        
+        <attr format="color" name="holiday_color"/>
+        
+        <attr format="color" name="choose_color"/>
+        
+        <attr format="reference" name="day_bg"/>
+        
+        <attr format="boolean" name="switch_choose"/>
+        
+        <attr format="enum" name="choose_type">
+            <enum name="single" value="0"/>
+            <enum name="multi" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="RulerView">
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="color" name="lineColor"/>
+        <attr format="dimension" name="lineSpaceWidth"/>
+        <attr format="dimension" name="lineWidth"/>
+        <attr format="dimension" name="lineMaxHeight"/>
+        <attr format="dimension" name="lineMidHeight"/>
+        <attr format="dimension" name="lineMinHeight"/>
+        <attr format="dimension" name="textMarginTop"/>
+        <attr format="boolean" name="alphaEnable"/>
+        <attr format="float" name="minValue"/>
+        <attr format="float" name="maxValue"/>
+        <attr format="float" name="selectorValue"/>
+        <attr format="float" name="perValue"/>
+    </declare-styleable><declare-styleable name="MovieRecorderView">
+        
+        <attr format="boolean" name="is_open_camera"/>
+        
+        <attr format="integer" name="record_max_time"/>
+        
+        <attr format="integer" name="record_width"/>
+        
+        <attr format="integer" name="record_height"/>
+    </declare-styleable><declare-styleable name="PDFViewPager">
+        <attr format="string" name="assetFileName"/> 
+        <attr format="string" name="pdfUrl"/> 
+        <attr format="float" name="scale"/> 
+    </declare-styleable><declare-styleable name="RoundImageView">
+        <attr name="borderRadius"/>
+        <attr name="type"/>
+    </declare-styleable><declare-styleable name="FLCSeekBar">
+        <attr format="integer" name="cells"/>
+        <attr format="dimension" name="lineHeight"/>
+        <attr format="color" name="lineColorSelected"/>
+        <attr format="color" name="lineColorUnSelected"/>
+        <attr format="color" name="circleColorEdge"/>
+        <attr format="reference" name="bitmapThumb"/>
+    </declare-styleable><declare-styleable name="UGCFloatingActionButton">
+        <attr format="color" name="fab_colorPressed"/>
+        <attr format="color" name="fab_colorNormal"/>
+        <attr format="color" name="fab_colorRipple"/>
+        <attr format="color" name="fab_colorDisabled"/>
+        <attr format="boolean" name="fab_shadow"/>
+        <attr format="enum" name="fab_type">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="WaterWaveView">
+        <attr format="integer" name="cfl_progress"/>
+        <attr format="boolean" name="cfl_border"/>
+        <attr format="dimension" name="cfl_border_width"/>
+        <attr format="color" name="cfl_wave_color"/>
+        <attr format="float" name="cfl_wave_amplitude"/>
+    </declare-styleable><declare-styleable name="MZBannerView">
+        <attr format="boolean" name="open_mz_mode"/>
+        <attr format="boolean" name="canLoop"/>
+        <attr format="dimension" name="indicatorPaddingLeft"/>
+        <attr format="dimension" name="indicatorPaddingRight"/>
+        <attr format="dimension" name="indicatorPaddingTop"/>
+        <attr format="dimension" name="indicatorPaddingBottom"/>
+        <attr name="indicatorAlign">
+            <enum name="left" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+        <attr format="boolean" name="middle_page_cover"/>
+    </declare-styleable><declare-styleable name="FlickeringTextView">
+        <attr format="color" name="flickeringColor"/>
+    </declare-styleable><declare-styleable name="AVLoadingIndicatorView">
+        <attr name="indicator">
+            <flag name="BallPulse" value="0"/>
+            <flag name="BallGridPulse" value="1"/>
+            <flag name="BallClipRotate" value="2"/>
+            <flag name="BallClipRotatePulse" value="3"/>
+            <flag name="SquareSpin" value="4"/>
+            <flag name="BallClipRotateMultiple" value="5"/>
+            <flag name="BallPulseRise" value="6"/>
+            <flag name="BallRotate" value="7"/>
+            <flag name="CubeTransition" value="8"/>
+            <flag name="BallZigZag" value="9"/>
+            <flag name="BallZigZagDeflect" value="10"/>
+            <flag name="BallTrianglePath" value="11"/>
+            <flag name="BallScale" value="12"/>
+            <flag name="LineScale" value="13"/>
+            <flag name="LineScaleParty" value="14"/>
+            <flag name="BallScaleMultiple" value="15"/>
+            <flag name="BallPulseSync" value="16"/>
+            <flag name="BallBeat" value="17"/>
+            <flag name="LineScalePulseOut" value="18"/>
+            <flag name="LineScalePulseOutRapid" value="19"/>
+            <flag name="BallScaleRipple" value="20"/>
+            <flag name="BallScaleRippleMultiple" value="21"/>
+            <flag name="BallSpinFadeLoader" value="22"/>
+            <flag name="LineSpinFadeLoader" value="23"/>
+            <flag name="TriangleSkewSpin" value="24"/>
+            <flag name="Pacman" value="25"/>
+            <flag name="BallGridBeat" value="26"/>
+            <flag name="SemiCircleSpin" value="27"/>
+        </attr>
+        <attr format="color" name="indicator_color"/>
+    </declare-styleable><declare-styleable name="PercentLayout">
+        <attr format="float" name="layout_widthPercent"/>
+        <attr format="float" name="layout_heightPercent"/>
+    </declare-styleable><declare-styleable name="LegacyPDFView">
+
+    </declare-styleable><declare-styleable name="ucrop_UCropView">
+        <attr format="float" name="ucrop_aspect_ratio_x"/>
+        <attr format="float" name="ucrop_aspect_ratio_y"/>
+        <attr format="boolean" name="ucrop_show_oval_crop_frame"/>
+        <attr format="boolean" name="ucrop_oval_dimmed_layer"/>
+        <attr format="color" name="ucrop_dimmed_color"/>
+        <attr format="dimension" name="ucrop_grid_stroke_size"/>
+        <attr format="color" name="ucrop_grid_color"/>
+        <attr format="integer" name="ucrop_grid_row_count"/>
+        <attr format="integer" name="ucrop_grid_column_count"/>
+        <attr format="boolean" name="ucrop_show_grid"/>
+        <attr format="dimension" name="ucrop_frame_stroke_size"/>
+        <attr format="color" name="ucrop_frame_color"/>
+        <attr format="boolean" name="ucrop_show_frame"/>\
+        <attr format="integer" name="ucrop_react_margin_top"/>
+        <attr format="integer" name="ucrop_react_height"/>
+    </declare-styleable><declare-styleable name="RingProgressBar">
+        <attr format="color" name="startColor"/>
+        <attr format="color" name="centerColor"/>
+        <attr format="color" name="endColor"/>
+        <attr format="float" name="max"/>
+        <attr format="float" name="mProgress"/>
+    </declare-styleable><declare-styleable name="WeekView">
+        
+        <attr format="string" name="week_str"/>
+        
+        <attr format="color" name="week_color"/>
+        
+        <attr format="integer" name="week_size"/>
+    </declare-styleable><declare-styleable name="SmoothCheckBox">
+        <attr format="dimension" name="stroke_width"/>
+        <attr format="dimension" name="tick_width"/>
+        <attr format="color" name="color_tick"/>
+        <attr format="color" name="color_checked"/>
+        <attr format="color" name="color_unchecked"/>
+        <attr format="color" name="color_unchecked_stroke"/>
+    </declare-styleable><declare-styleable name="FlToggleButton">
+        <attr name="fl_defaultState"/>
+    </declare-styleable><declare-styleable name="ScrollingImageView">
+        <attr format="dimension" name="speed"/>
+        <attr format="reference" name="src"/>
+    </declare-styleable><declare-styleable name="LoadingLayout">
+    <attr format="reference" name="com_loadingView"/>
+    <attr format="reference" name="com_errorView"/>
+    <attr format="reference" name="com_emptyView"/>
+  </declare-styleable></configuration></mergedItems></merger>
